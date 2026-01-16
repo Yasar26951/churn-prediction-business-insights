@@ -107,3 +107,17 @@ This converts the ML model into a measurable business value pipeline.
 ---
 
 ## Project Structure
+``` bash
+│
+├── notebooks/
+│ ├── EDA.ipynb
+│ └── Model.ipynb
+│
+├── outputs/
+│ ├── model_metrics.csv
+│ ├── top_200_churn_risk.csv
+│ └── top_features.csv
+│
+├── requirements.txt
+└── README.md
+```
